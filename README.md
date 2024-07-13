@@ -2,7 +2,7 @@ Data Analysis for Digital Music Store Using SQL
 
 Database Use : MySQL
 
-We can examine the dataset with SQL and help the store understand its business growth by answering simple questions.
+We can examine the dataset with SQL and help the store understand its business growth by answering simple questions: 
 Q.1 How is the senior most employee based on job title ?
 Q.2 Which countries have the most invoices ?
 Q.3 What are top 3 values of total invoice ?
